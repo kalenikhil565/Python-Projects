@@ -2,7 +2,6 @@
 
 Welcome to the **Hand Gesture Detection** project! This Python application utilizes the powerful **MediaPipe** library to detect and display hand landmarks and connections in real-time. Whether you're building a gesture-based control system, experimenting with machine learning, or simply exploring hand gesture recognition, this project has you covered!
 
-![Hand Gesture](https://media.giphy.com/media/xT0xeJpnv0fW1pX1xu/giphy.gif)  
 
 ## 🛠️ Requirements
 
